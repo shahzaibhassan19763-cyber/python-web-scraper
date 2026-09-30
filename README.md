@@ -197,4 +197,4 @@ This project can be improved further by adding:
 
 This project was created for educational and learning purposes. The website used in this project is a practice website designed for learning web scraping.
 
-This project is not affiliated with or endorsed by WhatsApp, Meta, or any other third-party service.  
+This project is not affiliated with or endorsed by WhatsApp, Meta, or any other third-party service. 
