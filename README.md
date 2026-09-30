@@ -61,3 +61,7 @@ After the data is processed, the workflow sends an email notification using Gmai
 - Gmail
 - Git
 - GitHub
+
+ ## 📸 Automation Workflow
+
+![n8n Automation Workflow](workflow.png)
