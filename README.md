@@ -65,3 +65,35 @@ After the data is processed, the workflow sends an email notification using Gmai
  ## 📸 Automation Workflow
 
 ![n8n Automation Workflow](workflow.png)
+
+## ⚙️ Installation
+
+Follow these steps to run the project locally.
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/shahzaibhassan19763-cyber/python-web-scraper.git
+```
+
+### 2. Open the project folder
+
+```bash
+cd python-web-scraper
+```
+
+### 3. Install required libraries
+
+```bash
+pip install requests beautifulsoup4
+```
+
+### 4. Run the Python scraper
+
+```bash
+python n8n23.py
+```
+
+> Make sure Python is installed on your computer before running the project.
+
+
